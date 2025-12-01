@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   extends: ['stylelint-config-standard', 'stylelint-config-recommended'],
   ignoreFiles: ['!**/*.css', 'node_modules'],
   rules: {
